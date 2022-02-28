@@ -82,7 +82,7 @@ div.box--noidung{
 }
 article{
     width: 30%;
-    min-height: 800px;
+    min-height: 1008px;
    border: 2px solid black;
    float: left;
    
@@ -90,7 +90,7 @@ article{
 aside{
     float: left;
     width: calc(70% - 10px);
-    height: 800px;
+   min-height: 1000px ;
     border: 2px solid black;
     margin-left: 10px;
 }
